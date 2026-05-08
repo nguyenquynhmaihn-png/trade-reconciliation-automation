@@ -53,7 +53,7 @@ Build Guide.
 - `MISSING_CUST` — trade exists internally, missing on custodian
 - `DUP`          — duplicated trade_id on one side
 
-## Lessons (write your own here once you finish)
+## Lessons
 
 ## Lessons learned
 
